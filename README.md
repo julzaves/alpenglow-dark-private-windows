@@ -2,7 +2,7 @@
 
 Alpenglow Dark will be your theme when you open a new Private Window but not in normal windows.
 
-This theme is based on [Alpenglow Dark](https://addons.mozilla.org/en-US/firefox/addon/alpenglow-dark/) by [Prajna Sariputra](https://github.com/X-m7/alpenglow-dark), with the code for changing the theme on private windows only copied/based from [Purple Private Windows](https://addons.mozilla.org/en-US/firefox/addon/purple-private-windows/) by [WaldiPL](https://github.com/WaldiPL/purplePrivateWindows).
+This theme is based on [Alpenglow Dark](https://addons.mozilla.org/en-US/firefox/addon/alpenglow-dark/) by [Prajna Sariputra](https://github.com/X-m7/alpenglow-dark), with the code for changing the theme on private windows only based on [Purple Private Windows](https://addons.mozilla.org/en-US/firefox/addon/purple-private-windows/) by [WaldiPL](https://github.com/WaldiPL/purplePrivateWindows).
 
 Download [Here](https://github.com/julzaves/alpenglow-dark-private-windows#download).
 
