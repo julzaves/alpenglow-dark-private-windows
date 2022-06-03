@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Alpenglow Dark Private Windows",
+  "description": "Alpenglow Dark will be your theme when you open a new Private Window but not in normal windows.",
+  "version": "1.0",
+
+  "developer":{
+  	"name":"Julz Aves",
+	"url":"https://github.com/julzaves/alpenglow-dark-private-windows"
+  },
+  
+  "icons": {
+  	"32": "icon.svg",
+  	"48": "icon.svg",
+  	"96": "icon.svg"
+  },
+
+  "permissions":[
+  	"theme"
+  ],
+
+  "background":{
+  	"scripts":["bg.js"]
+  }
+}
