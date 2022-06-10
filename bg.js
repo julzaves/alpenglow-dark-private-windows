@@ -6,7 +6,7 @@ const theme={
       "background-noodles-right-dark.svg",
       "background-noodles-left-dark.svg",
       "background-gradient-dark.svg"
-    
+    ]
   },
   properties: {
     "additional_backgrounds_alignment": [
